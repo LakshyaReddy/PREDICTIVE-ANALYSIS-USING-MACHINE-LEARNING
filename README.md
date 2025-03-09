@@ -13,6 +13,12 @@ This project builds a machine learning model to predict IPL match final scores b
 
 ![Image](https://github.com/user-attachments/assets/7188ad8c-ef27-45c5-b3b1-7c9543b80395)
 
+![Image](https://github.com/user-attachments/assets/f66cb168-5e2a-4162-a296-2e603b9f30cf)
+
+![Image](https://github.com/user-attachments/assets/0631bb67-5728-4f89-8be9-c420d10b2142)
+
+![Image](https://github.com/user-attachments/assets/585f21be-843f-4d2e-a68f-f1a7e73745f2)
+
 ![Image](https://github.com/user-attachments/assets/34977e5b-4b8f-4707-a266-a2252e346252)
 
 ![Image](https://github.com/user-attachments/assets/57f344a7-6cef-47e8-81c6-f5d20cd80108)
